@@ -1,14 +1,6 @@
-/*
-* grunt-squirrel
-* https://github.com/mattdwen/grunt-squirrel
-*
-* Copyright (c) 2015 Matt Dwen
-* Licensed under the MIT license.
-*/
-
-'use strict';
-
 module.exports = function(grunt) {
+  'use strict';
+  
   var _ = grunt.util._,
       async = grunt.util.async,
       squirrel = require('../lib/squirrel')(grunt);
