@@ -1,26 +1,21 @@
 {
   "name": "grunt-squirrel-releasify",
-  "description": "Squirrel Releasify - Prepare NuGet packages for release via Squirrel",
   "version": "0.1.0",
-  "homepage": "https://github.com/mattdwen/grunt-squirrel",
+  "description": "Squirrel Releasify - Prepare NuGet packages for release via Squirrel",
+  "license": "MIT",
   "author": {
+    "name": "Group 6 Technologies Ltd",
+    "url": "http://www.group6.co.nz/"
+  },
+  "contirubutors": {
     "name": "Matt Dwen",
-    "email": "matt@group6.co.nz",
-    "url": "http://dwen.co.nz"
+    "email": "matt@dwen.co.nz",
+    "url": "http://dwen.co.nz/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattdwen/grunt-squirrel-releasify.git"
+    "url": "git://github.com/group6tech/grunt-squirrel-releasify.git"
   },
-  "bugs": {
-    "url": "https://github.com/mattdwen/grunt-squirrel-releasify/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/mattdwen/grunt-squirrel-releasify/blob/master/LICENSE"
-    }
-  ],
   "engines": {
     "node": ">= 0.12.0"
   },
