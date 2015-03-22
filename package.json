@@ -1,6 +1,6 @@
 {
   "name": "grunt-squirrel-releasify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Squirrel Releasify - Prepare NuGet packages for release via Squirrel",
   "license": "MIT",
   "author": {
