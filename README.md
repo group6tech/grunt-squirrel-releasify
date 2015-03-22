@@ -5,7 +5,7 @@ Grunt plugin that releasifies [NuGet](https://www.nuget.org/) packages for [Squi
 ## Installing
 
 ```
-npm install --save-dev grunt-squirrel
+npm install --save-dev grunt-squirrel-releasify
 ```
 
 ## Configuring
