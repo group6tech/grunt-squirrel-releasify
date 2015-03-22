@@ -1,0 +1,42 @@
+{
+  "name": "grunt-squirrel-releasify",
+  "description": "Squirrel Releasify - Prepare NuGet packages for release via Squirrel",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mattdwen/grunt-squirrel",
+  "author": {
+    "name": "Matt Dwen",
+    "email": "matt@group6.co.nz",
+    "url": "http://dwen.co.nz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdwen/grunt-squirrel-releasify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattdwen/grunt-squirrel-releasify/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mattdwen/grunt-squirrel-releasify/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
